@@ -1,0 +1,16 @@
+.sai{
+	border:2px solid black;
+	height:400px;
+	width:400px;
+	margin:80px;
+	background-color:yellow;
+}
+.subhash{
+	border:1px solid green;
+	width:70px;
+	height:70px;
+	padding:20px 20px;
+	margin:0.2px 290px;
+	background-color:pink;
+	position:fixed;
+}

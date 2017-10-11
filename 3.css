@@ -1,0 +1,20 @@
+.sai{
+	border:2px solid black;
+	height:50px;
+	width:630px;
+	margin:80px
+}
+.subhash{
+	border:1px solid green;
+	width:3px;
+	height:3px;
+	padding:20px 20px;
+	margin:1px 250px;
+}
+.subhash1{
+	border:1px solid green;
+	width:3px;
+	height:3px;
+	padding:20px 20px;
+	margin:-38px 50px;
+}
